@@ -1,0 +1,19 @@
+{
+    "name": "sarikatr/todolist",
+    "description": "Todo list",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sarikatr",
+            "email": "sarika.sics@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+	"autoload": {
+        "psr-4": {
+            "Sarikatr\\Todolist\\": "src/",
+        }
+    }
+}
